@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SDLGameAssignment.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  bullet.cpp
+  Clock.cpp
+C:\Users\tomja\Desktop\Space Man Game (16652901)\Clock.cpp(22,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Enemy.cpp
+  health.cpp
+C:\Users\tomja\Desktop\Space Man Game (16652901)\health.cpp(16,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\tomja\Desktop\Space Man Game (16652901)\main.cpp(68,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  player.cpp
+  Square.cpp
+  Timer.cpp
+  Generating Code...
+  SDLGameAssignment.vcxproj -> C:\Users\tomja\Desktop\Space Man Game (16652901)\x64\Debug\SDL Space Man.exe

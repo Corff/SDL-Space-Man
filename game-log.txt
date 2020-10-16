@@ -1,0 +1,379 @@
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+[16/10/20] [KeyDown] time 3519; code 100; char D;
+[16/10/20] [KeyDown] time 3569; code 115; char S;
+[16/10/20] [MouseDown] time 3812; code 280; char Ę;
+Enemy Destructed
+Enemy Destructed
+[16/10/20] [MouseUp] time 3918; code 280; char Ę;
+[16/10/20] [KeyUp] time 4173; code 115; char S;
+[16/10/20] [MouseDown] time 4370; code 140; char ;
+Enemy Destructed
+Enemy Destructed
+Enemy Destructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Destructed
+[16/10/20] [MouseUp] time 4453; code 121; char Y;
+[16/10/20] [KeyDown] time 4463; code 115; char S;
+[16/10/20] [KeyUp] time 4771; code 100; char D;
+[16/10/20] [KeyDown] time 4771; code 97; char A;
+[16/10/20] [KeyUp] time 4844; code 115; char S;
+[16/10/20] [MouseDown] time 4876; code 425; char Ʃ;
+Enemy Destructed
+[16/10/20] [MouseUp] time 4970; code 484; char Ǥ;
+[16/10/20] [KeyDown] time 5001; code 119; char W;
+[16/10/20] [KeyUp] time 5106; code 97; char A;
+[16/10/20] [KeyDown] time 5127; code 100; char D;
+[16/10/20] [KeyUp] time 5221; code 119; char W;
+[16/10/20] [MouseDown] time 5293; code 386; char Ƃ;
+Enemy Destructed
+[16/10/20] [MouseUp] time 5406; code 390; char Ɔ;
+[16/10/20] [MouseDown] time 5689; code 395; char Ƌ;
+Enemy Destructed
+[16/10/20] [MouseUp] time 5781; code 349; char ŝ;
+[16/10/20] [KeyDown] time 5781; code 115; char S;
+[16/10/20] [MouseDown] time 6127; code 298; char Ī;
+[16/10/20] [KeyUp] time 6137; code 100; char D;
+[16/10/20] [MouseUp] time 6208; code 297; char ĩ;
+[16/10/20] [KeyDown] time 6313; code 97; char A;
+[16/10/20] [KeyUp] time 6366; code 115; char S;
+[16/10/20] [MouseDown] time 6511; code 314; char ĺ;
+[16/10/20] [KeyDown] time 6586; code 100; char D;
+[16/10/20] [KeyUp] time 6607; code 97; char A;
+[16/10/20] [MouseUp] time 6607; code 316; char ļ;
+Enemy Destructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+[16/10/20] [KeyDown] time 6779; code 119; char W;
+[16/10/20] [KeyUp] time 6860; code 100; char D;
+[16/10/20] [MouseDown] time 7146; code 441; char ƹ;
+Enemy Destructed
+Enemy Destructed
+[16/10/20] [MouseUp] time 7246; code 439; char Ʒ;
+Enemy Destructed
+[16/10/20] [KeyDown] time 7444; code 100; char D;
+[16/10/20] [KeyDown] time 7556; code 50; char 2;
+[16/10/20] [KeyUp] time 7566; code 100; char D;
+[16/10/20] [KeyUp] time 7618; code 50; char 2;
+[16/10/20] [KeyDown] time 7730; code 97; char A;
+[16/10/20] [KeyUp] time 7769; code 119; char W;
+[16/10/20] [MouseDown] time 7921; code 385; char Ɓ;
+[16/10/20] [KeyDown] time 7975; code 115; char S;
+[16/10/20] [MouseUp] time 8006; code 365; char ŭ;
+[16/10/20] [MouseDown] time 8079; code 349; char ŝ;
+[16/10/20] [MouseUp] time 8179; code 355; char ţ;
+[16/10/20] [MouseDown] time 8229; code 368; char Ű;
+[16/10/20] [KeyUp] time 8291; code 115; char S;
+[16/10/20] [MouseUp] time 8320; code 360; char Ũ;
+[16/10/20] [MouseDown] time 8381; code 349; char ŝ;
+Enemy Destructed
+[16/10/20] [KeyDown] time 8391; code 115; char S;
+[16/10/20] [MouseUp] time 8487; code 344; char Ř;
+[16/10/20] [MouseDown] time 8547; code 344; char Ř;
+[16/10/20] [MouseUp] time 8610; code 349; char ŝ;
+[16/10/20] [KeyUp] time 8631; code 115; char S;
+[16/10/20] [MouseDown] time 8786; code 651; char ʋ;
+[16/10/20] [MouseUp] time 8869; code 644; char ʄ;
+[16/10/20] [MouseDown] time 8940; code 599; char ɗ;
+Enemy Destructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+[16/10/20] [MouseUp] time 9024; code 610; char ɢ;
+[16/10/20] [MouseDown] time 9085; code 636; char ɼ;
+[16/10/20] [MouseUp] time 9165; code 638; char ɾ;
+[16/10/20] [MouseDown] time 9225; code 637; char ɽ;
+[16/10/20] [MouseUp] time 9316; code 632; char ɸ;
+[16/10/20] [KeyDown] time 9327; code 100; char D;
+[16/10/20] [MouseDown] time 9337; code 632; char ɸ;
+Enemy Destructed
+[16/10/20] [KeyUp] time 9347; code 97; char A;
+Enemy Destructed
+Enemy Destructed
+[16/10/20] [MouseUp] time 9438; code 632; char ɸ;
+[16/10/20] [MouseDown] time 9479; code 628; char ɴ;
+[16/10/20] [MouseUp] time 9570; code 622; char ɮ;
+[16/10/20] [MouseDown] time 9610; code 612; char ɤ;
+[16/10/20] [MouseUp] time 9704; code 612; char ɤ;
+[16/10/20] [MouseDown] time 9745; code 609; char ɡ;
+[16/10/20] [MouseUp] time 9848; code 610; char ɢ;
+[16/10/20] [MouseDown] time 9888; code 612; char ɤ;
+[16/10/20] [MouseUp] time 9989; code 612; char ɤ;
+[16/10/20] [KeyUp] time 10010; code 100; char D;
+[16/10/20] [KeyDown] time 10030; code 97; char A;
+[16/10/20] [MouseDown] time 10124; code 571; char Ȼ;
+[16/10/20] [MouseUp] time 10224; code 570; char Ⱥ;
+[16/10/20] [MouseDown] time 10283; code 570; char Ⱥ;
+[16/10/20] [MouseUp] time 10401; code 570; char Ⱥ;
+[16/10/20] [MouseDown] time 10455; code 571; char Ȼ;
+[16/10/20] [MouseUp] time 10560; code 571; char Ȼ;
+[16/10/20] [MouseDown] time 10642; code 571; char Ȼ;
+[16/10/20] [MouseUp] time 10717; code 571; char Ȼ;
+[16/10/20] [MouseDown] time 10781; code 571; char Ȼ;
+[16/10/20] [MouseUp] time 10842; code 571; char Ȼ;
+[16/10/20] [MouseDown] time 10915; code 571; char Ȼ;
+[16/10/20] [KeyUp] time 10936; code 97; char A;
+[16/10/20] [MouseUp] time 10966; code 571; char Ȼ;
+[16/10/20] [KeyDown] time 10997; code 115; char S;
+[16/10/20] [MouseDown] time 11029; code 571; char Ȼ;
+[16/10/20] [KeyDown] time 11080; code 100; char D;
+[16/10/20] [MouseUp] time 11090; code 576; char ɀ;
+[16/10/20] [MouseDown] time 11141; code 576; char ɀ;
+[16/10/20] [KeyUp] time 11151; code 100; char D;
+[16/10/20] [MouseUp] time 11212; code 576; char ɀ;
+[16/10/20] [KeyDown] time 11222; code 97; char A;
+[16/10/20] [MouseDown] time 11263; code 576; char ɀ;
+[16/10/20] [KeyUp] time 11296; code 115; char S;
+[16/10/20] [MouseUp] time 11328; code 576; char ɀ;
+[16/10/20] [MouseDown] time 11368; code 576; char ɀ;
+[16/10/20] [KeyUp] time 11388; code 97; char A;
+[16/10/20] [KeyDown] time 11432; code 100; char D;
+[16/10/20] [MouseUp] time 11454; code 576; char ɀ;
+[16/10/20] [MouseDown] time 11484; code 576; char ɀ;
+[16/10/20] [KeyDown] time 11527; code 119; char W;
+[16/10/20] [KeyUp] time 11538; code 100; char D;
+[16/10/20] [MouseUp] time 11568; code 576; char ɀ;
+[16/10/20] [MouseDown] time 11612; code 576; char ɀ;
+[16/10/20] [KeyDown] time 11612; code 97; char A;
+[16/10/20] [MouseUp] time 11692; code 576; char ɀ;
+[16/10/20] [MouseDown] time 11732; code 576; char ɀ;
+[16/10/20] [KeyUp] time 11752; code 97; char A;
+[16/10/20] [KeyDown] time 11815; code 100; char D;
+[16/10/20] [MouseUp] time 11826; code 576; char ɀ;
+[16/10/20] [MouseDown] time 11868; code 576; char ɀ;
+[16/10/20] [MouseUp] time 11939; code 576; char ɀ;
+[16/10/20] [MouseDown] time 11993; code 576; char ɀ;
+[16/10/20] [MouseUp] time 12077; code 576; char ɀ;
+[16/10/20] [MouseDown] time 12118; code 576; char ɀ;
+[16/10/20] [MouseUp] time 12198; code 576; char ɀ;
+[16/10/20] [KeyUp] time 12283; code 119; char W;
+[16/10/20] [MouseDown] time 12753; code 576; char ɀ;
+[16/10/20] [MouseUp] time 12823; code 576; char ɀ;
+[16/10/20] [MouseDown] time 12877; code 576; char ɀ;
+[16/10/20] [MouseUp] time 12957; code 576; char ɀ;
+[16/10/20] [KeyDown] time 13008; code 115; char S;
+[16/10/20] [MouseDown] time 13019; code 576; char ɀ;
+[16/10/20] [MouseUp] time 13112; code 573; char Ƚ;
+[16/10/20] [MouseDown] time 13216; code 378; char ź;
+[16/10/20] [MouseUp] time 13337; code 452; char Ǆ;
+[16/10/20] [MouseDown] time 13407; code 581; char Ʌ;
+[16/10/20] [MouseUp] time 13492; code 570; char Ⱥ;
+[16/10/20] [KeyUp] time 13593; code 115; char S;
+[16/10/20] [KeyDown] time 13646; code 49; char 1;
+[16/10/20] [KeyUp] time 13747; code 49; char 1;
+[16/10/20] [MouseDown] time 13961; code 366; char Ů;
+[16/10/20] [MouseUp] time 14040; code 362; char Ū;
+[16/10/20] [KeyUp] time 14113; code 100; char D;
+[16/10/20] [KeyDown] time 14206; code 97; char A;
+[16/10/20] [KeyUp] time 14317; code 97; char A;
+[16/10/20] [MouseDown] time 14327; code 385; char Ɓ;
+[16/10/20] [KeyDown] time 14368; code 100; char D;
+[16/10/20] [MouseUp] time 14388; code 381; char Ž;
+Enemy Destructed
+Enemy Destructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+[16/10/20] [KeyUp] time 14499; code 100; char D;
+[16/10/20] [KeyDown] time 14521; code 119; char W;
+[16/10/20] [KeyDown] time 14701; code 97; char A;
+[16/10/20] [MouseDown] time 14792; code 381; char Ž;
+Enemy Destructed
+[16/10/20] [MouseUp] time 14862; code 382; char ž;
+[16/10/20] [KeyUp] time 14916; code 119; char W;
+[16/10/20] [KeyDown] time 15195; code 100; char D;
+[16/10/20] [MouseDown] time 15195; code 578; char ɂ;
+Enemy Destructed
+[16/10/20] [KeyUp] time 15236; code 97; char A;
+[16/10/20] [MouseUp] time 15298; code 545; char ȡ;
+[16/10/20] [KeyDown] time 15461; code 115; char S;
+[16/10/20] [MouseDown] time 15572; code 414; char ƞ;
+Enemy Destructed
+[16/10/20] [MouseUp] time 15652; code 412; char Ɯ;
+Enemy Destructed
+[16/10/20] [KeyUp] time 15745; code 115; char S;
+[16/10/20] [KeyUp] time 15766; code 100; char D;
+[16/10/20] [KeyDown] time 15785; code 97; char A;
+[16/10/20] [MouseDown] time 15999; code 389; char ƅ;
+[16/10/20] [MouseUp] time 16108; code 389; char ƅ;
+[16/10/20] [KeyDown] time 16118; code 115; char S;
+[16/10/20] [KeyUp] time 16129; code 97; char A;
+[16/10/20] [KeyDown] time 16180; code 100; char D;
+[16/10/20] [KeyUp] time 16282; code 100; char D;
+[16/10/20] [KeyUp] time 16356; code 115; char S;
+[16/10/20] [MouseDown] time 16409; code 356; char Ť;
+[16/10/20] [MouseUp] time 16552; code 349; char ŝ;
+[16/10/20] [MouseDown] time 16737; code 317; char Ľ;
+[16/10/20] [MouseUp] time 16838; code 317; char Ľ;
+[16/10/20] [KeyDown] time 16939; code 97; char A;
+[16/10/20] [KeyDown] time 16959; code 119; char W;
+[16/10/20] [MouseDown] time 17033; code 317; char Ľ;
+Enemy Destructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+[16/10/20] [MouseUp] time 17123; code 318; char ľ;
+[16/10/20] [KeyUp] time 17183; code 119; char W;
+[16/10/20] [MouseDown] time 17588; code 723; char ˓;
+Enemy Destructed
+Enemy Destructed
+[16/10/20] [KeyDown] time 17671; code 50; char 2;
+[16/10/20] [MouseUp] time 17692; code 745; char ˩;
+[16/10/20] [KeyUp] time 17786; code 50; char 2;
+[16/10/20] [MouseDown] time 17807; code 680; char ʨ;
+[16/10/20] [MouseUp] time 17908; code 678; char ʦ;
+[16/10/20] [KeyDown] time 17939; code 115; char S;
+[16/10/20] [MouseDown] time 17980; code 673; char ʡ;
+[16/10/20] [KeyUp] time 18041; code 115; char S;
+[16/10/20] [MouseUp] time 18051; code 657; char ʑ;
+[16/10/20] [KeyDown] time 18539; code 49; char 1;
+Enemy Destructed
+[16/10/20] [KeyUp] time 18651; code 49; char 1;
+[16/10/20] [KeyUp] time 18794; code 97; char A;
+[16/10/20] [MouseDown] time 18804; code 464; char ǐ;
+Enemy Destructed
+Enemy Destructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+[16/10/20] [MouseUp] time 18885; code 473; char Ǚ;
+Enemy Destructed
+[16/10/20] [KeyDown] time 19024; code 100; char D;
+[16/10/20] [MouseDown] time 19316; code 477; char ǝ;
+[16/10/20] [MouseUp] time 19439; code 480; char Ǡ;
+[16/10/20] [KeyDown] time 19617; code 115; char S;
+[16/10/20] [MouseDown] time 19678; code 529; char ȑ;
+Enemy Destructed
+[16/10/20] [KeyUp] time 19699; code 115; char S;
+Enemy Destructed
+[16/10/20] [MouseUp] time 19804; code 532; char Ȕ;
+[16/10/20] [MouseDown] time 20151; code 187; char »;
+[16/10/20] [MouseUp] time 20246; code 180; char ´;
+Enemy Destructed
+[16/10/20] [MouseDown] time 20630; code 174; char ®;
+[16/10/20] [MouseUp] time 20752; code 174; char ®;
+Enemy Destructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Destructed
+[16/10/20] [KeyUp] time 20984; code 100; char D;
+[16/10/20] [KeyDown] time 21006; code 97; char A;
+[16/10/20] [MouseDown] time 21290; code 146; char ;
+[16/10/20] [MouseUp] time 21444; code 146; char ;
+Enemy Destructed
+[16/10/20] [KeyUp] time 21714; code 97; char A;
+[16/10/20] [KeyDown] time 21747; code 100; char D;
+[16/10/20] [MouseDown] time 21787; code 151; char ;
+Enemy Destructed
+[16/10/20] [KeyUp] time 21888; code 100; char D;
+[16/10/20] [KeyDown] time 21919; code 97; char A;
+[16/10/20] [MouseUp] time 21919; code 151; char ;
+[16/10/20] [KeyDown] time 22012; code 100; char D;
+[16/10/20] [KeyUp] time 22012; code 97; char A;
+[16/10/20] [KeyDown] time 22263; code 119; char W;
+[16/10/20] [KeyUp] time 22482; code 119; char W;
+[16/10/20] [MouseDown] time 22522; code 151; char ;
+[16/10/20] [MouseUp] time 22630; code 147; char ;
+[16/10/20] [KeyUp] time 22743; code 100; char D;
+[16/10/20] [MouseDown] time 23029; code 134; char ;
+Enemy Destructed
+[16/10/20] [MouseUp] time 23163; code 138; char ;
+Enemy Destructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+[16/10/20] [KeyDown] time 23182; code 97; char A;
+Enemy Destructed
+[16/10/20] [MouseDown] time 23307; code 173; char ­;
+[16/10/20] [MouseUp] time 23421; code 173; char ­;
+[16/10/20] [KeyDown] time 23443; code 115; char S;
+[16/10/20] [KeyUp] time 23535; code 115; char S;
+[16/10/20] [MouseDown] time 23648; code 344; char Ř;
+Enemy Destructed
+Enemy Destructed
+[16/10/20] [KeyDown] time 23698; code 100; char D;
+[16/10/20] [KeyUp] time 23708; code 97; char A;
+[16/10/20] [MouseUp] time 23741; code 345; char ř;
+[16/10/20] [KeyUp] time 24061; code 100; char D;
+[16/10/20] [KeyDown] time 24101; code 97; char A;
+[16/10/20] [MouseDown] time 24131; code 403; char Ɠ;
+Enemy Destructed
+[16/10/20] [KeyDown] time 24234; code 115; char S;
+[16/10/20] [MouseUp] time 24234; code 405; char ƕ;
+[16/10/20] [KeyUp] time 24538; code 115; char S;
+[16/10/20] [KeyDown] time 24580; code 100; char D;
+[16/10/20] [KeyUp] time 24590; code 97; char A;
+[16/10/20] [MouseDown] time 24600; code 237; char í;
+Enemy Destructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+[16/10/20] [MouseUp] time 24712; code 235; char ë;
+[16/10/20] [KeyDown] time 24826; code 119; char W;
+[16/10/20] [KeyUp] time 24892; code 100; char D;
+[16/10/20] [KeyDown] time 24912; code 97; char A;
+[16/10/20] [KeyUp] time 25097; code 119; char W;
+[16/10/20] [MouseDown] time 25149; code 518; char Ȇ;
+Enemy Destructed
+[16/10/20] [KeyDown] time 25210; code 115; char S;
+[16/10/20] [MouseUp] time 25260; code 562; char Ȳ;
+[16/10/20] [KeyUp] time 25415; code 115; char S;
+[16/10/20] [KeyDown] time 25609; code 100; char D;
+[16/10/20] [KeyUp] time 25620; code 97; char A;
+[16/10/20] [MouseDown] time 25641; code 460; char ǌ;
+Enemy Destructed
+[16/10/20] [MouseUp] time 25752; code 463; char Ǐ;
+Enemy Destructed
+[16/10/20] [MouseDown] time 26091; code 429; char ƭ;
+Enemy Destructed
+[16/10/20] [MouseUp] time 26184; code 415; char Ɵ;
+[16/10/20] [KeyDown] time 26452; code 119; char W;
+[16/10/20] [KeyUp] time 26474; code 100; char D;
+[16/10/20] [MouseDown] time 26505; code 302; char Į;
+[16/10/20] [KeyDown] time 26576; code 97; char A;
+[16/10/20] [MouseUp] time 26596; code 300; char Ĭ;
+[16/10/20] [MouseDown] time 26844; code 300; char Ĭ;
+[16/10/20] [KeyUp] time 26905; code 119; char W;
+[16/10/20] [MouseUp] time 26947; code 300; char Ĭ;
+[16/10/20] [KeyUp] time 26947; code 97; char A;
+[16/10/20] [KeyDown] time 27141; code 115; char S;
+[16/10/20] [KeyUp] time 27274; code 115; char S;
+[16/10/20] [MouseDown] time 27478; code 273; char đ;
+Enemy Destructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+Enemy Constructed
+[16/10/20] [MouseUp] time 27580; code 273; char đ;
+[16/10/20] [KeyDown] time 27670; code 97; char A;
+[16/10/20] [KeyDown] time 27946; code 100; char D;
+[16/10/20] [KeyUp] time 27967; code 97; char A;
+[16/10/20] [KeyDown] time 28050; code 115; char S;
+[16/10/20] [KeyUp] time 28135; code 100; char D;
+[16/10/20] [KeyUp] time 28145; code 115; char S;

@@ -1,0 +1,16 @@
+﻿  bullet.cpp
+  Clock.cpp
+  Enemy.cpp
+  FileLogger.cpp
+  health.cpp
+C:\Users\tomja\Desktop\Games Programming\Game Code & Video\SDLAssignment\health.cpp(16,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\tomja\Desktop\Games Programming\Game Code & Video\SDLAssignment\main.cpp(68,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tomja\Desktop\Games Programming\Game Code & Video\SDLAssignment\main.cpp(222,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tomja\Desktop\Games Programming\Game Code & Video\SDLAssignment\main.cpp(243,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tomja\Desktop\Games Programming\Game Code & Video\SDLAssignment\main.cpp(268,22): warning C4018: '<': signed/unsigned mismatch
+  player.cpp
+  Square.cpp
+  Timer.cpp
+  Generating Code...
+  SDLGameAssignment.vcxproj -> C:\Users\tomja\Desktop\Games Programming\Game Code & Video\SDLAssignment\Debug\SDLGameAssignment.exe

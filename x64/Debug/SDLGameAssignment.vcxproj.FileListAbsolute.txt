@@ -1,0 +1,2 @@
+C:\Users\tomja\Desktop\Space Man Game (16652901)\x64\Debug\SDL Space Man.exe
+C:\Users\tomja\Desktop\Space Man Game (16652901)\x64\Debug\SDL Space Man.pdb
